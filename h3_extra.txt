@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "sayı girininz"
+read say
+echo "girdiğiniz sayi "$say
